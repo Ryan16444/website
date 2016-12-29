@@ -1,0 +1,55 @@
+/* CSS Document */
+
+#header {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	padding: 20px;
+	color:#FFFFFF;
+	background-color:#3FB3E0;
+}
+
+#content {
+	padding: 0px;
+	margin-top: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background-color:#FFFFFF;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {
+	color:#0000CC;
+	text-decoration:none;
+	border-bottom-style:none; /* dashed */
+	border-bottom-width:thin;
+}
+
+a:visited {
+	color:#0000D0;
+	text-decoration:none;
+	border-bottom-style:none;
+	border-bottom-width:thin;	
+}
+
+a:hover {
+	color:#0000FF;
+	text-decoration:none;
+	border-bottom-style:solid;
+	border-bottom-width:thin;
+}
+
+a:active {
+	color:#0000FF;
+	text-decoration:none;
+	border-bottom-style:solid;
+	border-bottom-width:thin;
+}
